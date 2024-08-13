@@ -39,6 +39,18 @@ body {
    
 }
 
+/* Category title */
+.category{
+    text-align: center;
+    width:fit-content;
+    margin: auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-right: none ;
+    border-left: none;
+    border-width: 2px;
+}
+
 /* Product Grid */
 .product-grid {
     display:flex;
